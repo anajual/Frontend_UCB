@@ -1,0 +1,32 @@
+body{
+    background-color: palevioletred;
+}
+
+div {
+    background-color: pink;
+    width: 400px;
+    height: 300px;
+
+    margin: 50px auto;
+    padding: 10px 20px;
+    box-sizing: border-box;
+}
+
+h1{
+  border: 5px solid black;
+}
+
+h1, p {
+    padding: 20px 60px;
+    /* e a simplificacao das seguintes dimensoes:
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 50px;*/
+}
+
+h1{
+    border: 10px solid palevioletred;
+    border-radius: 60px;
+}
+
